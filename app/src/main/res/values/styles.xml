@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="FlatButton" parent="Theme.AppCompat.Light">
+        <item name="android:textColor">#800000</item>
+        <item name="colorControlHighlight">@color/black</item>
+    </style>
+</resources>
